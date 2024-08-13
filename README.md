@@ -8,6 +8,8 @@
 - 🌱 Learning:
   - OpenGL/WebGL and Three.js: Exploring both low-level and high-level 3D graphics programming to create visual experiences.
 
+- 📫 How to reach me: message me on LinkedIn!
+
 ## Technical Project Highlights
 ### Fullstack AI & Graphs
   - [IdeaLog Project](https://github.com/patrykwoz/idealog-fullstack): A modern fullstack application built with FastAPI, Next.js, Neo4j, and Celery, designed to help users capture, track, and organize research ideas, experiments, and projects.
