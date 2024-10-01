@@ -15,7 +15,7 @@
   - [IdeaLog Project](https://github.com/patrykwoz/idealog-fullstack): A modern fullstack application built with FastAPI, Next.js, Neo4j, and Celery, designed to help users capture, track, and organize research ideas, experiments, and projects.
 
 ### Generative AI
-  - [Stable Diffusion Inference Inside Revit](https://github.com/patrykwoz/aectech-stable-diffusion): Three approaches to running Stable Diffusion directly in Revit: using a Python backend, integrating with ONNX Runtime via a NuGet package, or building a custom pipeline.
+  - [Stable Diffusion Inside Revit](https://github.com/patrykwoz/aectech-stable-diffusion): Three ways to run Stable Diffusion inference directly in Revit: using a Python backend, integrating with ONNX Runtime via a NuGet package, or building a custom pipeline.
 
 ## Tech Stack
 
